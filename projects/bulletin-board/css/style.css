@@ -1,0 +1,21 @@
+/*
+    NOTE TO STUDENTS: 
+
+    This is the file you should be writing your CSS in 
+    for the Bulletin Board assignment.
+
+    Good luck, and have fun!
+*/
+.post-it {
+    display: inline-block;
+    background-color: #F2A5B5;
+    padding: 24px;
+    margin: 24px;
+    width: 250px;
+    height: 270px;
+    font-family: sans-serif;
+    vertical-align: top;
+}
+#poem {
+    font-size: 12px;
+}
