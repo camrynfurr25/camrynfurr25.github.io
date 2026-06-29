@@ -1,3 +1,6 @@
+* {
+    box-sizing: border-box;
+}
 div{
     border: 10px dashed #7e87f5;
     margin: 24px 0px;
@@ -9,4 +12,10 @@ p {
     margin: 60px;
     background-color: #530100;
     color: #fffe84;
+    padding: 48px 60px;
+    border-radius: 50%;
+    width: 400px;
+    height: 400px;
+    display: flex;
+    align-items: center;
 }
