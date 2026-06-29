@@ -1,0 +1,12 @@
+div{
+    border: 10px dashed #7e87f5;
+    margin: 24px 0px;
+    padding: 24px 36px;
+    background-color: #3e0069;
+    color: white;
+}
+p {
+    margin: 60px;
+    background-color: #530100;
+    color: #fffe84;
+}
