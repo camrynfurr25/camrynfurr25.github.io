@@ -1,0 +1,19 @@
+#sidebar {
+    background-color: #333333;
+    color: white;
+    font-family: sans-serif;
+    width: 500px;
+    min-height: 100vh;
+    padding: 24px;
+}
+.chapter {
+    font-weight: bold;
+    font-size: 24px;
+}
+.edit {
+    font-style: italic;
+    color: orange;
+}
+li.chapter.edit {
+    color: red;
+}
