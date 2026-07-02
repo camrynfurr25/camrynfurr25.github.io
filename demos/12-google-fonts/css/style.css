@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Arvo:ital,wght@0,400;0,700;1,400;1,700&family=Lobster+Two:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 0px;
+    font-family: "Arvo", serif;
+}
+h1,
+h2,
+h3,
+h6 {
+    font-family: "Lobster Two", sans-serif;
+}
