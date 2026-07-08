@@ -1,0 +1,37 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+.sc {
+    width: 85%;
+    max-width: 900px;
+    margin: 0px auto;
+}
+.two-column {
+    display: flex;
+    gap: 50px;
+}
+.sidebar {
+    width: 250px;
+}
+.sidebar h2 {
+    margin: 0px;
+    background-color: #63128c;
+    color: #d8dcff;
+    padding: 6px 12px;
+    list-style-type:none;
+}
+.sidebar ul{
+border: .5px solid#63128c;
+margin: 0px 0px;
+}
+.sidebar a {
+    text-decoration: none;
+    color: #63128c;
+}
+.content {
+    flex: 1;
+}
