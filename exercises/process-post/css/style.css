@@ -1,0 +1,43 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+#hero {
+    background-image: url("../images/Screenshot\ 2026-07-13\ 133703.png");
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#hero .content {
+    width: max-content;
+}
+header {
+    background-color: rgb(82, 23, 118);
+    position: sticky;
+    top: 0%;
+}
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 24px;
+    padding: 15px 24px;
+}
+nav a {
+    color: lightgoldenrodyellow;
+    text-decoration: none;
+    font-weight: bold;
+}
+.btn {
+    color: lightgoldenrodyellow;
+    background-color: rgb(82, 23, 118);
+    margin: 0px auto;
+    padding: 10px;
+    border-radius: 5px;
+}
