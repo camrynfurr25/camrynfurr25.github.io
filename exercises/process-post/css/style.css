@@ -21,13 +21,14 @@ header {
     background-color: rgb(82, 23, 118);
     position: sticky;
     top: 0%;
+    padding: 10px;
 }
 nav {
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: center;
     gap: 24px;
-    padding: 15px 24px;
+    padding: 20px 24px;
 }
 nav a {
     color: lightgoldenrodyellow;
